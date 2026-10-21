@@ -1,0 +1,17 @@
+{
+  "name": "mossylauncher",
+  "productName": "MossyLauncher",
+  "version": "1.0.0",
+  "description": "Minecraft Launcher Based on LauncherCore",
+  "license": "MIT",
+  "author": "HuanMeng-official",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.0.0",
+    "playwright-core": "^1.64.1"
+  }
+}

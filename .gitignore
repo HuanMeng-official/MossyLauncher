@@ -1,0 +1,7 @@
+node_modules/
+.ui-shots/
+dist/
+out/
+*.log
+.DS_Store
+bin/
